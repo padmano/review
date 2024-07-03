@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/review/static/css/main.e3936400.css",
+    "main.js": "/review/static/js/main.7745377a.js",
+    "static/js/453.e7a41be0.chunk.js": "/review/static/js/453.e7a41be0.chunk.js",
+    "static/media/hari.png": "/review/static/media/hari.014cd0d77e5b9abc543f.png",
+    "static/media/puneet.png": "/review/static/media/puneet.720a17e6003fe6c6b4e1.png",
+    "static/media/arunvel.png": "/review/static/media/arunvel.5546a11f3c3c9dbd2c10.png",
+    "static/media/PriyaProfileCardCopy.jpeg": "/review/static/media/PriyaProfileCardCopy.942419caf9dbf6155272.jpeg",
+    "static/media/bikash.jpeg": "/review/static/media/bikash.ae14b781525b66748152.jpeg",
+    "static/media/mags.png": "/review/static/media/mags.ecadf47b57c74dc6fdb9.png",
+    "static/media/naveen.jpeg": "/review/static/media/naveen.7cb5ddf76b140f7b1af1.jpeg",
+    "static/media/thoughtworks_logo.png": "/review/static/media/thoughtworks_logo.6e26fb69d94705dbc37d.png",
+    "static/media/karan.png": "/review/static/media/karan.140fa59a245010de51e0.png",
+    "static/media/my_pic.jpeg": "/review/static/media/my_pic.ef9c6a2fc45560959068.jpeg",
+    "static/media/amey.png": "/review/static/media/amey.9a7e2ed83e2c7bb522c7.png",
+    "static/media/raghu.png": "/review/static/media/raghu.4febd5f9e995518d542c.png",
+    "static/media/ankur.jpeg": "/review/static/media/ankur.93af957bba392d659243.jpeg",
+    "static/media/hitesh.png": "/review/static/media/hitesh.1781454c21ba5484caf2.png",
+    "static/media/vishal.jpeg": "/review/static/media/vishal.0041f5ea16ff685f9037.jpeg",
+    "static/media/rupali.png": "/review/static/media/rupali.8c7c54ac1556ffb4ea8e.png",
+    "static/media/sravanthi.png": "/review/static/media/sravanthi.ed467e44e2bd1920600b.png",
+    "static/media/archana.png": "/review/static/media/archana.0d85e5df60bf145b2a37.png",
+    "static/media/manisha_sethi.png": "/review/static/media/manisha_sethi.079822c2dfc8d720ee45.png",
+    "static/media/sreecharan.png": "/review/static/media/sreecharan.35cdde51b4173889c46f.png",
+    "static/media/suresh.png": "/review/static/media/suresh.3071d5178f053a4bdd59.png",
+    "static/media/saptarshi.png": "/review/static/media/saptarshi.561db1a11d704d53ca32.png",
+    "static/media/geetha_pic.jpeg": "/review/static/media/geetha_pic.3c1b9f5920df529f308d.jpeg",
+    "static/media/raghav.png": "/review/static/media/raghav.a2b590e0e3956ff99deb.png",
+    "static/media/ram.png": "/review/static/media/ram.ed289cf24410be8f64c8.png",
+    "static/media/amit.png": "/review/static/media/amit.c28b611e74ec86024f0a.png",
+    "index.html": "/review/index.html",
+    "main.e3936400.css.map": "/review/static/css/main.e3936400.css.map",
+    "main.7745377a.js.map": "/review/static/js/main.7745377a.js.map",
+    "453.e7a41be0.chunk.js.map": "/review/static/js/453.e7a41be0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3936400.css",
+    "static/js/main.7745377a.js"
+  ]
+}
